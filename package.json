@@ -19,10 +19,12 @@
     "@angular/platform-browser": "~11.1.2",
     "@angular/platform-browser-dynamic": "~11.1.2",
     "@angular/router": "~11.1.2",
+    "@kolkov/ngx-gallery": "^1.2.3",
     "alertifyjs": "^1.13.1",
     "bootstrap": "^4.6.0",
     "bootswatch": "^4.6.0",
     "font-awesome": "^4.7.0",
+    "ngx-gallery": "^5.10.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
