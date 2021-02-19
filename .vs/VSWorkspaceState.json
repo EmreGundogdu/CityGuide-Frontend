@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\value"
   ],
+  "SelectedNode": "\\src\\app\\value\\value.component.css",
   "PreviewInSolutionExplorer": false
 }
